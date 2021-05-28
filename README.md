@@ -9,9 +9,9 @@ _website project_
 
 This project is for educational porpuses only. 
 
-Site published at REIKIA LINKO
+Site published at https://linanavardauskiene.github.io/2-klases-pas-serloka/
 
-Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
+Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
 
 ## Project features
 
