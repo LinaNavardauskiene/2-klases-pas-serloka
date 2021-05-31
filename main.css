@@ -1,0 +1,65 @@
+body { background-color: black;
+    display: inline-block;
+    width: 800px;
+    margin-top: 100px;
+    margin-left: calc(50% - 400px);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 0;
+}
+
+main {
+  display: inline-block;
+  width: 800px;
+  margin-left: calc(50% - 400px);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding: 0;
+  background-color: #EAEBED;
+}
+
+.serlock-img {
+  width: 45%;
+  float: left;
+margin-left: 0;
+}
+
+img {
+  padding-left: 111px;
+}
+
+.right-column {
+    display: inline-block;
+    width: 55%;
+  float: right;
+  padding-bottom: 24px;
+  color: #696F89;
+}
+
+.headding{
+    display: inline-block;
+    padding-top: 25px;
+    padding-top: 112px;
+    font-size: 50px;
+    padding-top: 72px;
+    color: black;
+}
+
+h2 {
+    padding: 0;
+    line-height: 1.24;
+    margin: 0;
+}
+
+p{
+  margin-bottom: 53px;
+}
+.bottom-links {
+    background-color: #696F89;
+    padding: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}
